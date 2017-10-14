@@ -9,4 +9,3 @@ i3-gaps powerline-i3-git siji-git feh terminus-font-ttf powerline-fonts-git ttf-
 And optional packages
  ```
 compton mpd mpc ncmpcpp mpdviz bash-pipes neofetch rofi termite
-
